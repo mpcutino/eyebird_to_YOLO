@@ -1,5 +1,0 @@
-{
-    "imgs_path": "/home/mpcutino/Documents/darknet/YOLO_cfg/data/Soccer_People_1",
-    "txt_file": "/home/mpcutino/Documents/darknet/YOLO_cfg/data/Soccer_People_1_Annotations.txt",
-    "save_train_path": "/home/mpcutino/Documents/darknet/YOLO_cfg"
-}
